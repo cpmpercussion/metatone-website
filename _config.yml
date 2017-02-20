@@ -1,32 +1,17 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Setup
+title:        Project or Site name
+tagline:      A responsive theme for your project on GitHub Pages
+baseurl:      ""
+paginate:     1
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Metatone
-email: info@metatone.net
-description: > # this means to ignore newlines until "baseurl:"
-  Mobile apps for making music. Metatone apps are mobile computer-musical instruments inspired by the world of contemporary percussion. Just tap and swipe to start creating your own percussive soundscape!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: cpmpercussion
-github_username:  cpmpercussion
+# About/contact
+author:
+  name:       Author name
+  url:        http://yourhomepage.com 
 
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-slate
+# Gems
 gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
