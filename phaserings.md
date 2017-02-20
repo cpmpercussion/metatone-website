@@ -2,10 +2,14 @@
 layout: default
 title: PhaseRings
 permalink: /phaserings/
+demovideo: PBR-zQtVqZ0
 ---
+
+![PhaseRings App in action](/images/apps/phaserings.png)
 
 [Now available in the AppStore for all iOS devices running iOS 8!](https://itunes.apple.com/app/phaserings/id924795988)
 
+[![DOI](https://zenodo.org/badge/20166/cpmpercussion/PhaseRings.svg)](https://zenodo.org/badge/latestdoi/20166/cpmpercussion/PhaseRings)
 
 PhaseRings is a musical instrument for performing expressive music with touch gestures. Anyone can create a beautiful piece of music with our sound schemes and generative composition engine!
 
@@ -24,6 +28,9 @@ Three "compositions" of pitches are included in the app, but you can also create
 * Audiobus and IAA support to stream audio to compatible apps!
 * Core MIDI support for iOS MIDI Accessories!
 
+### Demo Video
+
+<iframe  style="display:block; margin:0 auto;" width="560" height="315" src="https://www.youtube.com/embed/{{ page.demovideo }}" frameborder="0" allowfullscreen></iframe>
 
 ### Get in touch!
 

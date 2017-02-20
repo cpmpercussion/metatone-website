@@ -1,17 +1,13 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: {{ site.name }}
 layout: default
 ---
 
 Metatone apps are mobile computer-musical instruments inspired by the world of contemporary percussion. Just tap and swipe to start creating your own percussive soundscape!
 
-![PhaseRings App in action]()
+![PhaseRings App in action](/images/apps/phaserings.png)
 
 ## Apps
-
-
 
 There are currently four Metatone apps available for free in the iTunes App Store. While each app is a self contained musical instrument they share a touch-interface inspired by simple interactions with percussion instruments. Tap to play a short note - swipe to create a continuous sound. Each app contains a palette of sounds for creating a specific kind of soundscape, from the snow and ice in Northern Sweden to a Canberra café. Click on the app pages above for more information.
 
