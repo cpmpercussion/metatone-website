@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Metatone Classifier
 permalink: /metatoneclassifier/
 ---
