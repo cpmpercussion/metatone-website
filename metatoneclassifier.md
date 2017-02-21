@@ -6,6 +6,7 @@ permalink: /metatoneclassifier/
 
 ![MetatoneClassifier in action.](/images/apps/metatoneclassifier.png)
 
+[![DOI](https://zenodo.org/badge/20166/cpmpercussion/MetatoneClassifier.svg)](https://zenodo.org/badge/latestdoi/20166/cpmpercussion/MetatoneClassifier)
 
 _Metatone Classifier_ is a desktop application for tracking performances with _Metatone_ iOS apps. The classifier logs touch events from each performer, identifies what gesture each player is using and tracks “new ideas” that occur among the ensemble.
 

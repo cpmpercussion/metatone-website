@@ -7,6 +7,7 @@ demovideo: QR4H2s0PjGQ
 
 ![MetaLonsdale in action.](/images/apps/metalonsdale.png)
 
+[![DOI](https://zenodo.org/badge/20166/cpmpercussion/MetaLonsdale.svg)](https://zenodo.org/badge/latestdoi/20166/cpmpercussion/MetaLonsdale)
 
 <a href="https://itunes.apple.com/au/app/metalonsdale/id694075948?mt=8&amp;uo=4" target="itunes_store"><em>MetaLonsdale</em> is available for free in the iTunes app store!</a>
 
@@ -18,7 +19,7 @@ When multiple devices running Metatone Lonsdale are on the same wifi network, th
 
 ### Demo
 
-<iframe  style="display:block; margin:0 auto;" width="560" height="315" src="https://www.youtube.com/embed/{{ page.demovideo }}" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id=page.demovideo %}
 
 ### Performances with Metalonsdale
 

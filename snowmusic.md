@@ -7,6 +7,7 @@ demovideo: ctuR_0RiZPw
 
 ![Snow Music in action.](/images/apps/snowmusic.png)
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.51630.svg)](http://dx.doi.org/10.5281/zenodo.51630)
 
 Snow Music is a simple computer instrument created by Charles Martin and Ensemble Evolution for bringing the sound of snow and ice in Piteå into their performances.
 
@@ -20,4 +21,4 @@ All sounds recorded in Piteå, Sweden in February 2012.
 
 Ensemble Metatone in performance with Snow Music - August 2014, Drill Hall Gallery, Canberra.
 
-<iframe  style="display:block; margin:0 auto;" width="560" height="315" src="https://www.youtube.com/embed/{{ page.demovideo }}" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id=page.demovideo %}

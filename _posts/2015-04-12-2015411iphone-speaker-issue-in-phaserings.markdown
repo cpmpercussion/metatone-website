@@ -15,4 +15,6 @@ For the moment, a work around is to swipe up to access the AirPlay menu and sele
 
 Thanks for trying out my app! Proper fix coming soon!
 
-![Select iPhone speaker to send audio to the main speaker.](https://metatoneproject.files.wordpress.com/2015/04/802f0-image.jpg) Select iPhone speaker to send audio to the main speaker.
+![Select iPhone speaker to send audio to the main speaker.](https://metatoneproject.files.wordpress.com/2015/04/802f0-image.jpg) 
+
+Select iPhone speaker to send audio to the main speaker.
