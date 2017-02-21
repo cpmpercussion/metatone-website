@@ -9,14 +9,12 @@ Metatone apps are mobile computer-musical instruments inspired by the world of c
 
 ## Apps
 
-| ![](/images/apps/metalonsdale-ui.png)| ![](/images/apps/birdsnest-ui.png)| ![](/images/apps/snowmusic-ui.png) | ![](/images/apps/phaserings-ui.png)|
-|--------------|-----------|------------|------------|
-|[MetaLonsdale](/metalonsdale) is a collaborative musical instrument created for Everything Nothing Projects Gallery in Canberra, Australia. Tapping and swiping the screen controls an array of field recordings and percussive sounds! | [BirdsNest](/birdsnest) is an iPad-instrument recalling the forest sounds of a Northern Swedish summer. Tap and slide to make music with bird calls, percussion sounds, and field recordings! | [Snow Music](/snowmusic) is an instrument for performing the sound of snow and ice from Piteå, Sweden. Tap the snow to create short snow sounds, swipe to slide on the snow and ice. | [PhaseRings](/phaserings) is a ring-based instrument for performing expressive music with touch gestures. Anyone can create a beautiful piece of music with our sound schemes and generative composition engine!|
+![The Metatone Apps](/images/apps/metatone-apps-ui-array.png)
 
-<!-- - [MetaLonsdale](/metalonsdale) is a collaborative musical instrument created for Everything Nothing Projects Gallery in Canberra, Australia. Tapping and swiping the screen controls an array of field recordings and percussive sounds!
+- [MetaLonsdale](/metalonsdale) is a collaborative musical instrument created for Everything Nothing Projects Gallery in Canberra, Australia. Tapping and swiping the screen controls an array of field recordings and percussive sounds!
 - [BirdsNest](/birdsnest) is an iPad-instrument recalling the forest sounds of a Northern Swedish summer. Tap and slide to make music with bird calls, percussion sounds, and field recordings!
 - [Snow Music](/snowmusic) is an instrument for performing the sound of snow and ice from Piteå, Sweden. Tap the snow to create short snow sounds, swipe to slide on the snow and ice.
-- [PhaseRings](/phaserings) is a ring-based instrument for performing expressive music with touch gestures. Anyone can create a beautiful piece of music with our sound schemes and generative composition engine! -->
+- [PhaseRings](/phaserings) is a ring-based instrument for performing expressive music with touch gestures. Anyone can create a beautiful piece of music with our sound schemes and generative composition engine!
 
 There are currently four Metatone apps available for free in the iTunes App Store. While each app is a self contained musical instrument they share a touch-interface inspired by simple interactions with percussion instruments. Tap to play a short note - swipe to create a continuous sound. Each app contains a palette of sounds for creating a specific kind of soundscape, from the snow and ice in Northern Sweden to a Canberra café. Click on the app pages above for more information.
 

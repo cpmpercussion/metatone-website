@@ -19,6 +19,10 @@ PhaseRings includes seven expressive "sound schemes" featuring percussive sounds
 
 Three "compositions" of pitches are included in the app, but you can also create your own custom composition by choosing three base notes and scales, PhaseRings will do the rest, generating a series of great setups from the harmony you choose!
 
+[![Available in the App Store](/images/badges/appstorebadge.png)](https://itunes.apple.com/app/phaserings/id924795988)
+
+![Supports AudioBus](/images/badges/audiobusbadge.png)
+
 ### Features:
 
 * 7 sound schemes
