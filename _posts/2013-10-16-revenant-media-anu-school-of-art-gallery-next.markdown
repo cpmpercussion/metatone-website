@@ -17,10 +17,7 @@ tags:
 - theremin
 ---
 
-[caption id="" align="alignnone" width="1024.0"]![Wave (1975) - Stanislaus Ostoja-Kotkowski](https://metatoneproject.files.wordpress.com/2013/10/8a010-img.jpg) Wave (1975) - Stanislaus Ostoja-Kotkowski[/caption] 
-  
-
-
+![Wave (1975) - Stanislaus Ostoja-Kotkowski](https://metatoneproject.files.wordpress.com/2013/10/8a010-img.jpg) Wave (1975) - Stanislaus Ostoja-Kotkowski
 
 I’m performing with Ensemble Metatone at a very exciting concert on Friday 25/10 at the ANU School of Art Gallery!
 

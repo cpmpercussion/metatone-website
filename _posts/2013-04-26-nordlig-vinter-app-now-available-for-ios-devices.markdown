@@ -12,12 +12,10 @@ tags:
 - iOS
 - libpd
 - nordlig vinter
+youtube_id: lut35N4I8ME
 ---
 
-![](https://metatoneproject.files.wordpress.com/2013/04/66238-img.png)
-  
-
-
+![The Nordlig Vinter app](https://metatoneproject.files.wordpress.com/2013/04/66238-img.png)
 
 [The Nordlig Vinter app](https://itunes.apple.com/us/app/nordlig-vinter/id631988721) plays computer generated soundscapes inspired by the landscape of Northern Sweden in winter.
 
@@ -32,6 +30,6 @@ You can use a MIDI accessory connected to your device to play the app’s bell s
 
 This app was created using the [libpd](http://libpd.cc/) and [PGMidi](https://github.com/petegoodliffe/PGMidi) libraries.
 
+<!-- Youtube: lut35N4I8ME http://youtube.com/watch?v=lut35N4I8ME -->
 
- 
-   [youtube=://www.youtube.com/watch?v=lut35N4I8ME&w=854&h=480]
+{% include youtubePlayer.html id=page.youtube_id %}

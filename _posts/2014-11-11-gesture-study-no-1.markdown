@@ -14,9 +14,6 @@ tags:
 ---
 
 ![](https://metatoneproject.files.wordpress.com/2014/11/2b110-img.jpg)
-  
-
-
 
 _Gesture Study #1_ is an open-ended exploration of touch-screen gestures for an iPad ensemble of flexible size. The first notated iPad work written for _Ensemble Metatone_, it was premiered at the _You Are Here_ festival, Canberra in March 2014 with an expanded ensemble of seven players.
 

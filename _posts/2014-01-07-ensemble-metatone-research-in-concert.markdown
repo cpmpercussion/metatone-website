@@ -13,6 +13,8 @@ tags:
 - percussion
 - performance
 - research
+youtube_id_1: pYxEbKk7jPs
+youtube_id_2: nqB_TRsLS3U
 ---
 
 In August 2013, Ensemble Metatone and I performed a short concert of our works for iPad and percussion developed over the previous four months. We played two improvised pieces, _MetaLonsdale_ for four iPads, and _MetaTravels_ for four iPads with percussion.
@@ -25,14 +27,13 @@ The video of both works is embedded below! Hope you enjoy them!
 
 ## MetaLonsdale
 
+<!-- Youtube: pYxEbKk7jPs -->
 
- 
-   [youtube=://www.youtube.com/watch?v=pYxEbKk7jPs&w=854&h=480]
- 
+{% include youtubePlayer.html id=page.youtube_id_1 %}
 
 
 ## MetaTravels
 
+<!-- youtube nqB_TRsLS3U -->
 
- 
-   [youtube=://www.youtube.com/watch?v=nqB_TRsLS3U&w=854&h=480]
+{% include youtubePlayer.html id=page.youtube_id_1 %}
