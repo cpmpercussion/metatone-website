@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Ensemble Metatone rehearsing with iPads](/images/ensemble/rehearsal.jpg)
+![Ensemble Metatone rehearsing with iPads]({% link images/ensemble/rehearsal.jpg %})
 
 ### Ensemble Metatone
 
@@ -14,7 +14,7 @@ A series of prototype Metatone iPad apps have already been trialled in a number 
 
 In 2014, Charles is hard at work refining the Metatone server applications and developing new iPad-instruments for his musical works. In addition to investigating the musical impact of this Metatone system and developing more accurate and timely feedback in ensemble performances, Charles is exploring the potential of this system in distributed performances and in music education.
 
-![Ensemble Evolution Performing Study in Bowls at You Are Here](/images/ensemble/studyinbowls-classifier.jpg)
+![Ensemble Evolution Performing Study in Bowls at You Are Here]({% link images/ensemble/studyinbowls-classifier.jpg %})
 
 ### Distributed Performance
 
@@ -24,4 +24,4 @@ In Metatone performances, a networked server mediates the players by responding 
 
 Musical games are often used in classroom situations for teaching improvisation or composition. Students might be asked to follow certain structural rules like playing ideas a particular number of times or imitating others. With Metatone iPad-apps, ensemble performances could be “gamified” so that participants are automatically rewarded for exploring new musical ideas or forms of ensemble performance. 
 
-![Performing with the ANU New Music Ensemble at You Are Here, 2015. Image by Chloe Hobbs](/images/ensemble/youarehere.jpg)
+![Performing with the ANU New Music Ensemble at You Are Here, 2015. Image by Chloe Hobbs]({% link images/ensemble/youarehere.jpg %})

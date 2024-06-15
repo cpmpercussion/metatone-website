@@ -1,17 +1,28 @@
 # Setup
 title:        Metatone
 tagline:      Mobile Apps for Making Music
-baseurl:      ""
-paginate:     1
+description: >- # this means to ignore newlines until "baseurl:"
+  Metatone apps are mobile computer-musical instruments inspired by the 
+  world of contemporary percussion. Just tap and swipe to start creating 
+  your own percussive soundscape!
+baseurl:      "/metatone"
+url: "https://cpmpercussion.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# paginate:     1
 
 # About/contact
 author: 
   name: Charles Martin
   url: http://metatone.net
 
-# Gems
-gems:
+plugins:
+  - jekyll-feed
   - jekyll-paginate
 
 #Others
 markdown: kramdown
+
+twitter_username: cpmpercussion
+github_username:  cpmpercussion
+
+# # Build settings
+# theme: minima
