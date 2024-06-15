@@ -5,11 +5,11 @@ layout: default
 
 Metatone apps are mobile computer-musical instruments inspired by the world of contemporary percussion. Just tap and swipe to start creating your own percussive soundscape!
 
-![PhaseRings App in action](/images/apps/phaserings.png)
+![PhaseRings App in action]({% link images/apps/phaserings.png %})
 
 ## Apps
 
-![The Metatone Apps](/images/apps/metatone-apps-ui-array.png)
+![The Metatone Apps]({% link images/apps/metatone-apps-ui-array.png %})
 
 - [MetaLonsdale](/metalonsdale) is a collaborative musical instrument created for Everything Nothing Projects Gallery in Canberra, Australia. Tapping and swiping the screen controls an array of field recordings and percussive sounds!
 - [BirdsNest](/birdsnest) is an iPad-instrument recalling the forest sounds of a Northern Swedish summer. Tap and slide to make music with bird calls, percussion sounds, and field recordings!

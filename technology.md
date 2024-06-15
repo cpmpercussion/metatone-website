@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Technology
-permalink: /technology/
+permalink: technology/
 ---
 
-![Ensemble Metatone in rehearsal with Metatone Classifier](/images/ensemble/aboverehearsal.png)
+![Ensemble Metatone in rehearsal with Metatone Classifier]({% link images/ensemble/aboverehearsal.png %})
 
 ### Publications
 
